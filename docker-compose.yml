@@ -22,7 +22,7 @@ services:
       POSTGRES_USER:     admin
       POSTGRES_PASSWORD: UrbanDB!Secure2025
     ports:
-      - "5432:5432"
+      - "5433:5432"
     volumes:
       - postgres_data:/var/lib/postgresql/data
       - ./urbanmove/schema.sql:/docker-entrypoint-initdb.d/schema.sql:ro
