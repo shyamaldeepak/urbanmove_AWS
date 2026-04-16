@@ -1,5 +1,7 @@
 # UrbanMove
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/65a9d563-61a7-4ec5-990d-50c589601610" />
+
 UrbanMove is a cloud-native smart mobility demo platform that tracks public transit vehicles in near real time.
 
 It includes:
